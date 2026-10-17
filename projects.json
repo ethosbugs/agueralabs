@@ -25,6 +25,6 @@
     "nombre": "All Random",
     "descripcion": "Web para decisiones, color, numero, carta, copas, si/no, moneda...",
     "etiquetas": ["HTML", "JavaScript", "LocalStorage"],
-    "url": "https://sudoku-one-gamma.vercel.app/"
+    "url": "https://allrandom.vercel.app/"
   }
 ]
