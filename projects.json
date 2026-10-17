@@ -4,7 +4,7 @@
     "nombre": "FastDental",
     "descripcion": "Sitio web para un servicio de reparación dental pensado para facilitar el agendamiento rápido de citas.",
     "etiquetas": ["HTML", "JavaScript", "Animaciones", "Formulario"],
-    "url": "fastdental.vercel.app"
+    "url": "https://fastdental.vercel.app/"
   },
   {
     "id": "best16hacoo",
@@ -16,15 +16,15 @@
   {
     "id": "catalunyanrage",
     "nombre": "Catalunyan Rage",
-    "descripcion": "Web de solicitud de unión a un Club, Brawl Stars, Incluye links de su fundador y formulario.",
+    "descripcion": "Web de solicitud de unión a un Club de Brawl Stars, incluye links de su fundador y formulario.",
     "etiquetas": ["Formulario", "Animaciones"],
-    "url": "https://example.net"
+    "url": "https://catalunyan-rage.vercel.app/"
   },
   {
     "id": "sudoku",
     "nombre": "The Sudoku",
-    "descripcion": "Web de sudoku's, temática personalizable, guarda el progreso local, racha, .",
+    "descripcion": "Web de sudokus con temática personalizable, guarda el progreso localmente y seguimiento de racha.",
     "etiquetas": ["HTML", "JavaScript", "LocalStorage"],
     "url": "https://sudoku-one-gamma.vercel.app/"
-  },
+  }
 ]
