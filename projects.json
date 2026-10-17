@@ -1,0 +1,23 @@
+[
+  {
+    "id": "proyecto-1",
+    "nombre": "Panel de Métricas",
+    "descripcion": "Dashboard ligero para visualizar métricas de uso en tiempo real. Pensado para equipos pequeños que quieren datos claros sin configurar nada.",
+    "etiquetas": ["Dashboard", "JavaScript", "Datos"],
+    "url": "https://example.com"
+  },
+  {
+    "id": "proyecto-2",
+    "nombre": "Generador de Paletas",
+    "descripcion": "Herramienta para crear paletas de color accesibles a partir de una sola tonalidad base, con comprobación de contraste WCAG.",
+    "etiquetas": ["Diseño", "Accesibilidad", "Herramienta"],
+    "url": "https://example.org"
+  },
+  {
+    "id": "proyecto-3",
+    "nombre": "Bitácora de Experimentos",
+    "descripcion": "Registro visual de los experimentos del laboratorio: hipótesis, resultados y aprendizajes, organizados por fecha.",
+    "etiquetas": ["Documentación", "Investigación"],
+    "url": "https://example.net"
+  }
+]
