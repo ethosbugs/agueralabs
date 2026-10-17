@@ -21,9 +21,9 @@
     "url": "https://catalunyan-rage.vercel.app/"
   },
   {
-    "id": "sudoku",
-    "nombre": "The Sudoku",
-    "descripcion": "Web de sudokus con temática personalizable, guarda el progreso localmente y seguimiento de racha.",
+    "id": "allrandom",
+    "nombre": "All Random",
+    "descripcion": "Web para decisiones, color, numero, carta, copas, si/no, moneda...",
     "etiquetas": ["HTML", "JavaScript", "LocalStorage"],
     "url": "https://sudoku-one-gamma.vercel.app/"
   }
