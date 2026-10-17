@@ -1,10 +1,10 @@
 [
   {
-    "id": "proyecto-1",
-    "nombre": "Panel de Métricas",
-    "descripcion": "Dashboard ligero para visualizar métricas de uso en tiempo real. Pensado para equipos pequeños que quieren datos claros sin configurar nada.",
-    "etiquetas": ["Dashboard", "JavaScript", "Datos"],
-    "url": "https://example.com"
+    "id": "fastdental",
+    "nombre": "FastDental",
+    "descripcion": "Es un sitio web para un servicio de reparación dental pensado para facilitar el agendamiento rápido de citas.",
+    "etiquetas": ["HTML", "JavaScript", "Carpetas"],
+    "url": "fastdental.vercel.app"
   },
   {
     "id": "proyecto-2",
