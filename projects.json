@@ -2,22 +2,29 @@
   {
     "id": "fastdental",
     "nombre": "FastDental",
-    "descripcion": "Es un sitio web para un servicio de reparación dental pensado para facilitar el agendamiento rápido de citas.",
-    "etiquetas": ["HTML", "JavaScript", "Carpetas"],
+    "descripcion": "Sitio web para un servicio de reparación dental pensado para facilitar el agendamiento rápido de citas.",
+    "etiquetas": ["HTML", "JavaScript", "Animaciones", "Formulario"],
     "url": "fastdental.vercel.app"
   },
   {
-    "id": "proyecto-2",
-    "nombre": "Generador de Paletas",
-    "descripcion": "Herramienta para crear paletas de color accesibles a partir de una sola tonalidad base, con comprobación de contraste WCAG.",
-    "etiquetas": ["Diseño", "Accesibilidad", "Herramienta"],
-    "url": "https://example.org"
+    "id": "best16hacoo",
+    "nombre": "Hacoo Code:BEST16",
+    "descripcion": "Web links HACOO, CODE: BEST16, Incluye links del proveedor y panel de administración.",
+    "etiquetas": ["HTML", "Contraseña"],
+    "url": "https://best16.vercel.app/"
   },
   {
-    "id": "proyecto-3",
-    "nombre": "Bitácora de Experimentos",
-    "descripcion": "Registro visual de los experimentos del laboratorio: hipótesis, resultados y aprendizajes, organizados por fecha.",
-    "etiquetas": ["Documentación", "Investigación"],
+    "id": "catalunyanrage",
+    "nombre": "Catalunyan Rage",
+    "descripcion": "Web de solicitud de unión a un Club, Brawl Stars, Incluye links de su fundador y formulario.",
+    "etiquetas": ["Formulario", "Animaciones"],
     "url": "https://example.net"
-  }
+  },
+  {
+    "id": "sudoku",
+    "nombre": "The Sudoku",
+    "descripcion": "Web de sudoku's, temática personalizable, guarda el progreso local, racha, .",
+    "etiquetas": ["HTML", "JavaScript", "LocalStorage"],
+    "url": "https://sudoku-one-gamma.vercel.app/"
+  },
 ]
