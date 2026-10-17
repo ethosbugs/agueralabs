@@ -1,14 +1,14 @@
 [
   {
     "id": "fastdental",
-    "nombre": "FastDental",
+    "nombre": "Fast Dental",
     "descripcion": "Sitio web para un servicio de reparación dental pensado para facilitar el agendamiento rápido de citas.",
     "etiquetas": ["HTML", "JavaScript", "Animaciones", "Formulario"],
     "url": "https://fastdental.vercel.app/"
   },
   {
     "id": "best16hacoo",
-    "nombre": "Hacoo Code:BEST16",
+    "nombre": "Hacoo BEST16",
     "descripcion": "Web links HACOO, CODE: BEST16, Incluye links del proveedor y panel de administración.",
     "etiquetas": ["HTML", "Contraseña"],
     "url": "https://best16.vercel.app/"
